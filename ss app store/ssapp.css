@@ -1,0 +1,126 @@
+body{
+    background-image: linear-gradient(180deg, black, white);
+}
+#you{
+    border: 2px solid gray;
+    width: 1325px;
+    height: 100px;
+}
+#clas{
+    position: relative;
+    top: 50px;
+    border: 2px solid gray;
+    width: 1325px;
+    height: 4500px;
+}
+#class{
+    position: relative;
+    top: 10px;
+    background-color: white;
+    color: black;
+}
+#cla{
+    position: relative;
+    top: 10px;
+    left: 60px;
+    background-color: white;
+    color: black;
+}
+#cl{
+    position: relative;
+    top: 10px;
+    left: 110px;
+    background-color: white;
+    color: black;
+}
+#cpu{
+    position: relative;
+    top: 10px;
+    left: 170px;
+    background-color: white;
+    color: black;
+}
+#doce{
+    position: relative;
+    top: 10px;
+    left: 240px;
+    background-color: white;
+    color: black;
+}
+nav .search{
+    position: relative;
+    top: 10px;
+    left: 330px;
+    width: 300px;
+    border-radius: 50px;
+}
+h1{
+   color: darkturquoise;
+   float: right;
+}
+#creed{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+#boom{
+    border: 1px solid gray;
+    position: relative;
+    left: 40px;
+    right: 80px;
+    top: 20px;
+    height: 770px;
+    width: 1165px;
+}
+#booom{
+    border: 1px solid black;
+    position: relative;
+    left: 40px;
+    right: 80px;
+    top: 80px;
+    height: 790px;
+    width: 1165px;
+}
+#cred{
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 300px;
+    width: 300px;
+}
+#goal{
+    border: 1px solid black;
+    position: relative;
+    left: 40px;
+    right: 80px;
+    top: 160px;
+    height: 740px;
+    width: 1165px;
+}
+#league{
+    border: 1px solid black;
+    position: relative;
+    left: 40px;
+    right: 80px;
+    top: 320px;
+    height: 850px;
+    width: 1165px;
+}
+#crol{
+    border: 1px solid black;
+    position: relative;
+    left: 40px;
+    right: 80px;
+    top: 440px;
+    height: 790px;
+    width: 1165px;
+}
+#foot{
+    border: 2px solid gray;
+    height: 100px;
+    width: 1325px;
+    position: relative;
+    left: 1px;
+    top: 55px;
+    background-color: black;
+}
